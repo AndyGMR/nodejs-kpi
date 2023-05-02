@@ -6,5 +6,6 @@ const areAnagrams = (str1: string, str2: string): boolean => {
     // повернення результату перевірки
     return (arr1.join('') === arr2.join(''));
 }
+// перевірка
 console.log(areAnagrams('hello', 'olhel')); // true
 console.log(areAnagrams('hello', 'world')); // false
