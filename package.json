@@ -1,7 +1,6 @@
 {
   "name": "typescriptpractice",
   "version": "1.0.0",
-  "description": "",
   "main": "task1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,6 +11,16 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^18.16.3",
+    "ts-node": "^10.9.1",
     "typescript": "^5.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyGMR/nodejs-kpi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AndyGMR/nodejs-kpi/issues"
+  },
+  "homepage": "https://github.com/AndyGMR/nodejs-kpi#readme",
+  "description": ""
 }
