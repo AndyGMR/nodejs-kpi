@@ -1,0 +1,26 @@
+{
+  "name": "nodejsbasics-homework",
+  "version": "1.0.0",
+  "description": "## TS",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "ts-node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.1.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "battery-level": "^3.0.0",
+    "systeminformation": "^5.17.13"
+  }
+}
